@@ -8,3 +8,6 @@ This repository contains supplementary data for the master's thesis "Implementat
 - `Plot Figures.zip` - Figures of different plotted data
 - `Python code for ploting.zip` - Python code that was used for ploting and processing the raw data from the CSV files
 - `Pick-and-place demo.mp4` – Video recording of the complete pick-and-place sequence
+
+## License
+This work is licensed under a MIT License
