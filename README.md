@@ -1,4 +1,4 @@
-# Mikkel-Bæverfjord-Implementation-and-experimental-evaluation-of-inverse-kinematics
+# Implementation-and-experimental-evaluation-of-inverse-kinematics
 # Helga - Reach Alpha 5 Thesis Data
 
 This repository contains supplementary data for the master's thesis "Implementation and experimental evaluation of inverse kinematics for robotic arm pick-and-place on an unmanned surface vehicle".
